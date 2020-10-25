@@ -1,1 +1,1 @@
-# Kyma Slack Auth page
+# get-slack-app
