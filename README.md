@@ -1,0 +1,1 @@
+# Kyma Slack Auth page
